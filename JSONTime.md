@@ -1,10 +1,10 @@
 "Repetitons" {
-    "StartTime":"03.04.2020"
+    "StartTime":"0 15 4 4 *"
     "Repeat":"null"
     "EndTime":"null"
     "RepeatCustom":{
-        "Monday":"12:30;15:50"
-        "Saturday":"15:00"
+        "Monday":"29 12 * * 1; 49 14 * * 1"
+        "Saturday":"0 14 * * 6"
         "RepeatEvery":"Week"
         "EndTime":"Never"
     }
